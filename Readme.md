@@ -1,5 +1,7 @@
 # Hacktoberfest 2023
 
+![GIF Title](https://github.com/sharmaadpk/Hacktoberfest2023/blob/main/clapping-yay.gif)
+
 Welcome to Hacktoberfest 2023! 🎉 We're excited to have you contribute to this repository.
 
 ## Basic Rules
